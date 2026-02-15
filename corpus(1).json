@@ -1,0 +1,673 @@
+[
+    {
+        "act": "IPC",
+        "act_full": "Indian Penal Code, 1860",
+        "chapter": "Definitions",
+        "section": "319",
+        "title": "Hurt",
+        "keywords": [
+            "hurt",
+            "injury",
+            "bodily pain",
+            "pain",
+            "disease",
+            "illness",
+            "sickness",
+            "infirmity",
+            "weakness",
+            "physical harm",
+            "minor injury",
+            "simple injury",
+            "hurt meaning",
+            "what is hurt in IPC",
+            "no visible injury",
+            "shock",
+            "unconsciousness"
+        ],
+        "source": "India Code (IPC)",
+        "text": "Statute (paraphrased): 'Hurt' means causing bodily pain, disease, or infirmity to any person.\nLayman explanation: If someone causes you physical pain, makes you ill, or weakens your body, it can be 'hurt' under IPC.\nKey points: Focus is on pain/illness/weakness; visible injury is not mandatory."
+    },
+    {
+        "act": "IPC",
+        "act_full": "Indian Penal Code, 1860",
+        "chapter": "Definitions",
+        "section": "321",
+        "title": "Voluntarily causing hurt",
+        "keywords": [
+            "voluntarily",
+            "causing hurt",
+            "intent",
+            "intention",
+            "knowledge",
+            "mens rea",
+            "deliberately hurt",
+            "knowingly hurt",
+            "hit",
+            "punch",
+            "slap",
+            "kick",
+            "accident vs intentional",
+            "hurt on purpose",
+            "IPC 321 meaning"
+        ],
+        "source": "India Code (IPC)",
+        "text": "Statute (paraphrased): A person 'voluntarily causes hurt' if they do an act with the intention of causing hurt, or with knowledge that it is likely to cause hurt, and hurt is caused.\nLayman explanation: If you hurt someone on purpose—or you do something knowing it will likely hurt them—this applies.\nExample: Punching someone to cause pain, or throwing something knowing it may hit and hurt."
+    },
+    {
+        "act": "IPC",
+        "act_full": "Indian Penal Code, 1860",
+        "chapter": "Offences affecting the human body",
+        "section": "323",
+        "title": "Punishment for voluntarily causing hurt",
+        "keywords": [
+            "IPC 323",
+            "punishment for hurt",
+            "simple hurt",
+            "minor injury",
+            "fight case",
+            "assault case",
+            "bailable",
+            "non-cognizable",
+            "one year punishment",
+            "₹1000 fine",
+            "wound certificate"
+        ],
+        "source": "India Code (IPC)",
+        "text": "Statute (paraphrased): Punishment for voluntarily causing hurt is imprisonment up to 1 year, or fine, or both.\nLayman explanation: If you intentionally cause 'simple hurt' (not grievous), you can be punished up to 1 year or fined.\nKey points: This is for simple hurt; grievous hurt is handled separately under IPC."
+    },
+    {
+        "act": "IPC",
+        "act_full": "Indian Penal Code, 1860",
+        "chapter": "Wrongful restraint and confinement",
+        "section": "339",
+        "title": "Wrongful restraint",
+        "keywords": [
+            "wrongful restraint",
+            "obstruction",
+            "blocked my way",
+            "stopped me from going",
+            "prevent movement",
+            "restricted movement",
+            "right to proceed",
+            "private way exception",
+            "neighbour blocked passage",
+            "parking blockage"
+        ],
+        "source": "India Code (IPC)",
+        "text": "Statute (paraphrased): Wrongful restraint is voluntarily obstructing a person so as to prevent them from proceeding in any direction in which they have a right to proceed.\nLayman explanation: If someone blocks your way and stops you from going where you have a right to go, it may be wrongful restraint.\nExample: Blocking a public pathway/exit to stop someone from leaving."
+    },
+    {
+        "act": "IPC",
+        "act_full": "Indian Penal Code, 1860",
+        "chapter": "Wrongful restraint and confinement",
+        "section": "341",
+        "title": "Punishment for wrongful restraint",
+        "keywords": [
+            "IPC 341",
+            "punishment for wrongful restraint",
+            "wrongful restraint punishment",
+            "blocked my way punishment",
+            "one month jail",
+            "₹500 fine",
+            "police complaint for restraint"
+        ],
+        "source": "India Code (IPC)",
+        "text": "Statute (paraphrased): Whoever wrongfully restrains any person may be punished with simple imprisonment up to 1 month, or fine up to ₹500, or both.\nLayman explanation: Blocking someone’s movement unlawfully can lead to up to 1 month jail or fine."
+    },
+    {
+        "act": "IPC",
+        "act_full": "Indian Penal Code, 1860",
+        "chapter": "Criminal force and assault",
+        "section": "350",
+        "title": "Criminal force",
+        "keywords": [
+            "criminal force",
+            "use of force",
+            "force against person",
+            "physical force",
+            "push",
+            "shove",
+            "grab",
+            "hold",
+            "drag",
+            "pull",
+            "slap",
+            "hit",
+            "without consent",
+            "intention",
+            "knowledge",
+            "cause fear",
+            "cause annoyance",
+            "manhandling",
+            "IPC 350 meaning"
+        ],
+        "source": "India Code (IPC)",
+        "text": "Statute (paraphrased): 'Criminal force' is using force on a person without consent, intending to commit an offence, or intending/knowing it is likely to cause injury, fear, or annoyance.\nLayman explanation: Using physical force like pushing/grabbing/slapping without consent—especially to intimidate or harm—can be criminal force.\nExample: Grabbing someone’s arm to stop them, or pushing them to frighten them."
+    },
+    {
+        "act": "IPC",
+        "act_full": "Indian Penal Code, 1860",
+        "chapter": "Criminal force and assault",
+        "section": "351",
+        "title": "Assault",
+        "keywords": [
+            "assault",
+            "gesture",
+            "preparation",
+            "threat gesture",
+            "raised hand",
+            "shaking fist",
+            "attempt to hit",
+            "fear of being hit",
+            "apprehension",
+            "IPC 351 meaning",
+            "assault definition"
+        ],
+        "source": "India Code (IPC)",
+        "text": "Statute (paraphrased): Assault is any gesture or preparation that causes a person to reasonably apprehend that criminal force is about to be used.\nLayman explanation: Even if you don’t touch someone, threatening actions that make them fear you are about to hit them can be assault.\nExample: Raising a hand to strike or moving aggressively as if to attack."
+    },
+    {
+        "act": "IPC",
+        "act_full": "Indian Penal Code, 1860",
+        "chapter": "Criminal force and assault",
+        "section": "352",
+        "title": "Punishment for assault or criminal force otherwise than on grave provocation",
+        "keywords": [
+            "IPC 352",
+            "assault punishment",
+            "criminal force punishment",
+            "no grave provocation",
+            "minor assault",
+            "three months jail",
+            "₹500 fine",
+            "what section for slap",
+            "what section for push"
+        ],
+        "source": "India Code (IPC)",
+        "text": "Statute (paraphrased): Punishment for assault or criminal force otherwise than on grave and sudden provocation is imprisonment up to 3 months, or fine, or both.\nLayman explanation: Minor assault/pushing/slapping without a serious provocation can lead to up to 3 months jail or fine."
+    },
+    {
+        "act": "IPC",
+        "act_full": "Indian Penal Code, 1860",
+        "chapter": "Criminal force and assault",
+        "section": "354",
+        "title": "Assault or criminal force to woman with intent to outrage her modesty",
+        "keywords": [
+            "IPC 354",
+            "outrage modesty",
+            "molestation",
+            "woman harassment",
+            "inappropriate touch",
+            "unwanted touch",
+            "sexual harassment",
+            "assault on woman",
+            "criminal force on woman",
+            "public place harassment",
+            "punishment 1 to 5 years"
+        ],
+        "source": "India Code (IPC)",
+        "text": "Statute (paraphrased): Assault or criminal force against a woman with intent to outrage her modesty is punishable with imprisonment and fine (as prescribed by law).\nLayman explanation: Unwanted physical acts against a woman done with sexual intent or to violate dignity are punished under IPC 354.\nKey points: The intention/knowledge about outraging modesty is crucial."
+    },
+    {
+        "act": "IPC",
+        "act_full": "Indian Penal Code, 1860",
+        "chapter": "Theft",
+        "section": "379",
+        "title": "Punishment for theft",
+        "keywords": [
+            "IPC 379",
+            "theft",
+            "stolen",
+            "mobile stolen",
+            "bike stolen",
+            "chain snatching",
+            "wallet stolen",
+            "pickpocket",
+            "bag stolen",
+            "punishment for theft",
+            "FIR for theft"
+        ],
+        "source": "India Code (IPC)",
+        "text": "Statute (paraphrased): Theft is punishable with imprisonment up to 3 years, or fine, or both.\nLayman explanation: If someone steals movable property (like phone, wallet, bike), IPC 379 provides the punishment.\nKey points: Theft definition is in IPC 378; IPC 379 is the punishment section."
+    },
+    {
+        "act": "IPC",
+        "act_full": "Indian Penal Code, 1860",
+        "chapter": "Criminal misappropriation",
+        "section": "403",
+        "title": "Dishonest misappropriation of property",
+        "keywords": [
+            "IPC 403",
+            "misappropriation",
+            "dishonest misappropriation",
+            "found property kept",
+            "kept lost phone",
+            "kept wallet found",
+            "sold found property",
+            "not returning property"
+        ],
+        "source": "India Code (IPC)",
+        "text": "Statute (paraphrased): Dishonest misappropriation is when someone dishonestly converts another person’s movable property to their own use.\nLayman explanation: If you find someone’s lost item and keep it (or sell/use it) dishonestly instead of returning it, it can fall here.\nExample: Keeping a found phone/wallet knowing it belongs to someone else."
+    },
+    {
+        "act": "IPC",
+        "act_full": "Indian Penal Code, 1860",
+        "chapter": "Criminal breach of trust",
+        "section": "406",
+        "title": "Punishment for criminal breach of trust",
+        "keywords": [
+            "IPC 406",
+            "criminal breach of trust",
+            "breach of trust",
+            "entrusted money",
+            "entrusted property",
+            "misused funds",
+            "not returning money",
+            "stridhan misuse",
+            "embezzlement"
+        ],
+        "source": "India Code (IPC)",
+        "text": "Statute (paraphrased): Criminal breach of trust is punishable when property is entrusted and is dishonestly misused/converted or not returned as required.\nLayman explanation: If someone is trusted with your money/property and they misuse it or refuse to return it dishonestly, IPC 406 may apply.\nExample: Someone given funds for a purpose uses it for themselves."
+    },
+    {
+        "act": "IPC",
+        "act_full": "Indian Penal Code, 1860",
+        "chapter": "Cheating",
+        "section": "415",
+        "title": "Cheating",
+        "keywords": [
+            "IPC 415",
+            "cheating",
+            "deception",
+            "dishonest inducement",
+            "fraudulent inducement",
+            "false promise",
+            "concealment of facts",
+            "property loss",
+            "reputation loss"
+        ],
+        "source": "India Code (IPC)",
+        "text": "Statute (paraphrased): Cheating involves deception and dishonest/fraudulent inducement causing someone to deliver property or do/omit something that causes harm.\nLayman explanation: If a person tricks you with a lie so you give money/property or suffer loss, it can be cheating.\nExample: False promise to sell something, taking payment, then disappearing."
+    },
+    {
+        "act": "IPC",
+        "act_full": "Indian Penal Code, 1860",
+        "chapter": "Cheating",
+        "section": "420",
+        "title": "Cheating and dishonestly inducing delivery of property",
+        "keywords": [
+            "IPC 420",
+            "cheating",
+            "fraud",
+            "scam",
+            "online fraud",
+            "UPI scam",
+            "OTP scam",
+            "phishing",
+            "fake link",
+            "fake customer care",
+            "loan app scam",
+            "paid money but no delivery",
+            "seller blocked",
+            "advance paid",
+            "valuable security",
+            "dishonest inducement",
+            "how to file FIR"
+        ],
+        "source": "India Code (IPC)",
+        "text": "Statute (paraphrased): Cheating and dishonestly inducing delivery of property/valuable security is punishable with imprisonment up to 7 years and fine.\nLayman explanation: Serious cheating where the victim is induced to hand over property/money due to deception can fall under IPC 420.\nExample: Online fraud/scam that makes a person transfer money."
+    },
+    {
+        "act": "IPC",
+        "act_full": "Indian Penal Code, 1860",
+        "chapter": "Criminal intimidation",
+        "section": "506",
+        "title": "Punishment for criminal intimidation",
+        "keywords": [
+            "IPC 506",
+            "criminal intimidation",
+            "threat",
+            "blackmail",
+            "extortion threat",
+            "threatening messages",
+            "WhatsApp threat",
+            "threat to life",
+            "threat to property"
+        ],
+        "source": "India Code (IPC)",
+        "text": "Statute (paraphrased): Criminal intimidation is punishable when a person threatens another with injury to person/property/reputation with intent to cause alarm or compel action/inaction.\nLayman explanation: Threatening someone (life/property/reputation) to scare them or force them to do something can be IPC 506.\nExample: Threatening messages demanding someone withdraw a complaint."
+    },
+    {
+        "act": "RTI",
+        "act_full": "Right to Information Act, 2005",
+        "chapter": "Preliminary",
+        "section": "2",
+        "title": "Definitions",
+        "keywords": [
+            "RTI definitions",
+            "RTI section 2",
+            "information",
+            "public authority",
+            "record",
+            "document",
+            "file",
+            "email",
+            "report",
+            "data",
+            "inspection",
+            "certified copy",
+            "electronic record"
+        ],
+        "source": "RTI Act (Official sources)",
+        "text": "Statute (paraphrased): Defines key terms like 'information', 'public authority', and the forms of access (inspection, copies, electronic records).\nLayman explanation: RTI law explains what counts as information and who must provide it.\nKey points: Includes documents, emails, reports, records, and electronic data."
+    },
+    {
+        "act": "RTI",
+        "act_full": "Right to Information Act, 2005",
+        "chapter": "Right to information",
+        "section": "3",
+        "title": "Right to information",
+        "keywords": [
+            "RTI section 3",
+            "right to information",
+            "citizen right",
+            "seek government records",
+            "government transparency"
+        ],
+        "source": "RTI Act (Official sources)",
+        "text": "Statute (paraphrased): Every citizen has the right to information held by public authorities, subject to exemptions.\nLayman explanation: Any Indian citizen can ask government/public bodies for information unless it is legally exempt."
+    },
+    {
+        "act": "RTI",
+        "act_full": "Right to Information Act, 2005",
+        "chapter": "Obligations of public authorities",
+        "section": "4",
+        "title": "Obligations of public authorities",
+        "keywords": [
+            "RTI section 4",
+            "proactive disclosure",
+            "publish information",
+            "suo motu disclosure",
+            "department website info",
+            "transparency",
+            "organization functions"
+        ],
+        "source": "RTI Act (Official sources)",
+        "text": "Statute (paraphrased): Public authorities must proactively publish key information (suo motu disclosure) so citizens need not always file RTI.\nLayman explanation: Many details should already be publicly available on websites/notice boards without you filing RTI."
+    },
+    {
+        "act": "RTI",
+        "act_full": "Right to Information Act, 2005",
+        "chapter": "PIO setup",
+        "section": "5",
+        "title": "Designation of Public Information Officers",
+        "keywords": [
+            "RTI section 5",
+            "PIO",
+            "CPIO",
+            "SPIO",
+            "assistant PIO",
+            "who is PIO",
+            "PIO duties",
+            "RTI officer"
+        ],
+        "source": "RTI Act (Official sources)",
+        "text": "Statute (paraphrased): Public authorities must appoint Public Information Officers (PIOs) to receive and process RTI requests.\nLayman explanation: Every department must have an RTI officer responsible for handling RTI applications."
+    },
+    {
+        "act": "RTI",
+        "act_full": "Right to Information Act, 2005",
+        "chapter": "Request process",
+        "section": "6",
+        "title": "Request for obtaining information",
+        "keywords": [
+            "RTI section 6",
+            "RTI application",
+            "how to apply RTI",
+            "RTI format",
+            "RTI online",
+            "RTI fee",
+            "submit RTI",
+            "PIO address",
+            "no need to give reason"
+        ],
+        "source": "RTI Act (Official sources)",
+        "text": "Statute (paraphrased): RTI requests can be made to the PIO/Assistant PIO; applicant need not give reasons for seeking information.\nLayman explanation: You can apply in writing/online to the RTI officer and you don’t need to explain why you want the information."
+    },
+    {
+        "act": "RTI",
+        "act_full": "Right to Information Act, 2005",
+        "chapter": "Request process",
+        "section": "7",
+        "title": "Disposal of request",
+        "keywords": [
+            "RTI section 7",
+            "RTI reply time",
+            "time limit",
+            "30 days",
+            "48 hours life and liberty",
+            "RTI delay",
+            "deemed refusal"
+        ],
+        "source": "RTI Act (Official sources)",
+        "text": "Statute (paraphrased): The PIO must respond within prescribed time limits—typically 30 days; faster timelines apply for urgent life/liberty matters.\nLayman explanation: RTI has deadlines. Normally you should get a reply within 30 days; urgent matters have shorter limits."
+    },
+    {
+        "act": "RTI",
+        "act_full": "Right to Information Act, 2005",
+        "chapter": "Exemptions",
+        "section": "8",
+        "title": "Exemption from disclosure of information",
+        "keywords": [
+            "RTI section 8",
+            "RTI exemptions",
+            "information denied",
+            "national security",
+            "privacy",
+            "investigation",
+            "cabinet papers",
+            "commercial confidence",
+            "public interest override"
+        ],
+        "source": "RTI Act (Official sources)",
+        "text": "Statute (paraphrased): Lists exemptions (e.g., security, investigation, privacy, etc.) where information may be denied; some disclosures may still occur if public interest outweighs harm.\nLayman explanation: Not everything can be shared under RTI. Certain sensitive categories can be refused."
+    },
+    {
+        "act": "RTI",
+        "act_full": "Right to Information Act, 2005",
+        "chapter": "Rejection",
+        "section": "9",
+        "title": "Grounds for rejection to access",
+        "keywords": [
+            "RTI section 9",
+            "RTI rejection",
+            "copyright",
+            "copyright infringement",
+            "third party copyright"
+        ],
+        "source": "RTI Act (Official sources)",
+        "text": "Statute (paraphrased): Information may be rejected if disclosure would infringe copyright (other than the State’s copyright).\nLayman explanation: If the information is protected by someone else’s copyright, the request can be denied."
+    },
+    {
+        "act": "RTI",
+        "act_full": "Right to Information Act, 2005",
+        "chapter": "Appeals",
+        "section": "19",
+        "title": "Appeal",
+        "keywords": [
+            "RTI section 19",
+            "RTI appeal",
+            "first appeal",
+            "second appeal",
+            "FAA",
+            "CIC",
+            "SIC",
+            "RTI rejected appeal",
+            "RTI not answered appeal"
+        ],
+        "source": "RTI Act (Official sources)",
+        "text": "Statute (paraphrased): Provides the first appeal and second appeal mechanism if information is denied or not provided.\nLayman explanation: If the RTI officer rejects/doesn’t reply, you can appeal—first within the department, then to the Information Commission."
+    },
+    {
+        "act": "RTI",
+        "act_full": "Right to Information Act, 2005",
+        "chapter": "Penalties",
+        "section": "20",
+        "title": "Penalties",
+        "keywords": [
+            "RTI section 20",
+            "penalty",
+            "PIO penalty",
+            "fine",
+            "₹250 per day",
+            "maximum ₹25,000",
+            "disciplinary action",
+            "delay penalty",
+            "wrong denial penalty"
+        ],
+        "source": "RTI Act (Official sources)",
+        "text": "Statute (paraphrased): Provides penalties against PIOs for delay, malafide denial, incorrect information, or destruction of information.\nLayman explanation: RTI law can fine the responsible officer if they delay without valid reason or deny information wrongly."
+    },
+    {
+        "act": "CPA2019",
+        "act_full": "Consumer Protection Act, 2019",
+        "chapter": "Preliminary",
+        "section": "2",
+        "title": "Definitions",
+        "keywords": [
+            "consumer",
+            "complaint",
+            "defect",
+            "deficiency",
+            "unfair trade practice",
+            "misleading advertisement",
+            "product liability",
+            "e-commerce",
+            "refund",
+            "replacement"
+        ],
+        "source": "India Code (Consumer Protection Act, 2019)",
+        "text": "Statute (paraphrased): Defines terms like consumer, goods/services, defect/deficiency, unfair trade practice, misleading advertisement, product liability, etc.\nLayman explanation: This section explains who is a consumer and what problems (defect/deficiency/unfair practices) the law covers.\nKey points: Includes e-commerce and misleading ads in the broader framework."
+    },
+    {
+        "act": "CPA2019",
+        "act_full": "Consumer Protection Act, 2019",
+        "chapter": "Complaints to authorities",
+        "section": "17",
+        "title": "Complaints to authorities",
+        "keywords": [
+            "complaint to authority",
+            "misleading advertisement complaint",
+            "unfair trade practice complaint",
+            "consumer rights violation",
+            "where to complain",
+            "regulator complaint"
+        ],
+        "source": "India Code (Consumer Protection Act, 2019)",
+        "text": "Statute (paraphrased): Provides the Act’s framework for complaints relating to consumer rights issues, including misleading advertisements/unfair trade practices (as structured in the Act).\nLayman explanation: If you face misleading ads or unfair practices, the Act provides ways to raise complaints within the system created by the law."
+    },
+    {
+        "act": "CPA2019",
+        "act_full": "Consumer Protection Act, 2019",
+        "chapter": "District Commission",
+        "section": "34",
+        "title": "Jurisdiction of District Commission",
+        "keywords": [
+            "district commission",
+            "district consumer court",
+            "district forum",
+            "jurisdiction",
+            "where to file",
+            "value of claim",
+            "pecuniary jurisdiction"
+        ],
+        "source": "India Code (Consumer Protection Act, 2019)",
+        "text": "Statute (paraphrased): Sets the District Commission’s jurisdiction (where you can file), including pecuniary/territorial aspects as per the Act and updated rules/notifications.\nLayman explanation: This tells you when a consumer case can be filed in the District Consumer Commission.\nNote: Value limits may be updated by rules/notifications—keep configurable."
+    },
+    {
+        "act": "CPA2019",
+        "act_full": "Consumer Protection Act, 2019",
+        "chapter": "District Commission",
+        "section": "35",
+        "title": "Manner in which complaint shall be made",
+        "keywords": [
+            "consumer complaint",
+            "how to file consumer complaint",
+            "consumer court procedure",
+            "complaint format",
+            "online filing",
+            "refund issue",
+            "defective product"
+        ],
+        "source": "India Code (Consumer Protection Act, 2019)",
+        "text": "Statute (paraphrased): Describes how a consumer complaint should be filed, including the manner/format and filing modes as per rules.\nLayman explanation: Explains the practical method to file a complaint (including online/electronic filing where allowed)."
+    },
+    {
+        "act": "CPA2019",
+        "act_full": "Consumer Protection Act, 2019",
+        "chapter": "District Commission",
+        "section": "36",
+        "title": "Admission of complaint",
+        "keywords": [
+            "admission of complaint",
+            "scrutiny",
+            "complaint admitted",
+            "maintainability",
+            "preliminary check",
+            "consumer forum admission"
+        ],
+        "source": "India Code (Consumer Protection Act, 2019)",
+        "text": "Statute (paraphrased): Describes admission/scrutiny of complaints by the District Commission.\nLayman explanation: The Commission checks whether your complaint is in order and maintainable before proceeding."
+    },
+    {
+        "act": "CPA2019",
+        "act_full": "Consumer Protection Act, 2019",
+        "chapter": "State Commission",
+        "section": "47",
+        "title": "Jurisdiction of State Commission",
+        "keywords": [
+            "state commission",
+            "state consumer court",
+            "jurisdiction",
+            "appeal to state commission",
+            "consumer case escalation",
+            "value of claim"
+        ],
+        "source": "India Code (Consumer Protection Act, 2019)",
+        "text": "Statute (paraphrased): Sets State Commission jurisdiction (original/appellate/revisional as per the Act).\nLayman explanation: Higher-level consumer disputes and appeals can go to the State Commission depending on jurisdiction rules."
+    },
+    {
+        "act": "CPA2019",
+        "act_full": "Consumer Protection Act, 2019",
+        "chapter": "National Commission",
+        "section": "58",
+        "title": "Jurisdiction of National Commission",
+        "keywords": [
+            "national commission",
+            "national consumer court",
+            "NCDRC",
+            "jurisdiction",
+            "high value claim",
+            "appeal to NCDRC"
+        ],
+        "source": "India Code (Consumer Protection Act, 2019)",
+        "text": "Statute (paraphrased): Sets National Commission jurisdiction for high-value matters and certain appeals.\nLayman explanation: Very high-value or specific appeal cases can go to the National Commission (NCDRC)."
+    },
+    {
+        "act": "CPA2019",
+        "act_full": "Consumer Protection Act, 2019",
+        "chapter": "Limitation",
+        "section": "69",
+        "title": "Limitation period",
+        "keywords": [
+            "limitation period",
+            "two years",
+            "time limit for consumer complaint",
+            "file within 2 years",
+            "delay condonation",
+            "sufficient cause"
+        ],
+        "source": "India Code (Consumer Protection Act, 2019)",
+        "text": "Statute (paraphrased): A consumer complaint should generally be filed within 2 years from the cause of action; delay may be condoned for sufficient cause.\nLayman explanation: Usually you must file within 2 years. If late, you must explain the reason and seek condonation."
+    }
+]
