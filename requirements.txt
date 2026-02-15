@@ -10,9 +10,14 @@ torch>=2.1.0
 # Hugging Face Transformers library
 transformers>=4.46.0
 
-# Sentence Transformers (built on top of transformers & torch)
+# Sentence Transformers
 sentence-transformers>=3.1.1
 
-# Faiss CPU (installed via GitHub to avoid PyPI issues)
+# Faiss CPU from GitHub
 faiss-cpu@git+https://github.com/facebookresearch/faiss.git
 
+# Avoid version conflicts for rich & dependencies
+rich
+markdown-it-py
+pygments
+mdurl
