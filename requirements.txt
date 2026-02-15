@@ -1,5 +1,18 @@
-streamlit==1.32.2
-sentence-transformers==3.1.1
-transformers==4.46.0
-faiss-cpu==1.7.4
+# Streamlit core
+streamlit>=1.32
+
+# HTTP requests
 requests
+
+# PyTorch (needed for transformers & sentence-transformers)
+torch>=2.1.0
+
+# Hugging Face Transformers library
+transformers>=4.46.0
+
+# Sentence Transformers (built on top of transformers & torch)
+sentence-transformers>=3.1.1
+
+# Faiss CPU (installed via GitHub to avoid PyPI issues)
+faiss-cpu@git+https://github.com/facebookresearch/faiss.git
+
