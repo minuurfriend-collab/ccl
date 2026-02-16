@@ -1,6 +1,6 @@
 streamlit>=1.32
 requests
 torch>=2.1.0
-transformers>=4.46.0
-sentence-transformers>=3.1.1
+transformers
+sentence-transformers
 faiss-cpu@git+https://github.com/facebookresearch/faiss.git
